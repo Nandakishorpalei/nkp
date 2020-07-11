@@ -55,6 +55,7 @@ height: 60px;
 background-color:#32e0c4;
 }
 .last{
+
   padding-top: 10px;
   margin-left: 90px;
 }
@@ -75,10 +76,26 @@ background-color:#32e0c4;
   float: left;
   margin-right: 30px;
 }
+.footer-link:hover{
+  background-color: white;
+  color:red;
+}
 .footer-link1{
   float: left;
 }
-
+.footer-link1:hover{
+  background-color: white;
+  color: green;
+}
+.footer-link2{
+  padding-left: 30px;
+  float: left;
+  clear: right;
+}
+.footer-link2:hover{
+  background-color: white;
+  color:green;
+}
 .para {
   padding-left: 30px;
 }
@@ -188,9 +205,11 @@ h2 {
 
 .b {
   color: #DAF7A6;
+    padding-left: 60px;
 }
 .c{
   color:#DAF7A6;
+    padding-left: 60px;
 }
 .topcontainer {
   background-color: #abf0e9;
@@ -213,14 +232,6 @@ h1 {
 
 .a {
   padding-left: 900px;
-}
-
-.b {
-  padding-left: 60px;
-}
-
-.c {
-  padding-left: 60px;
 }
 
 .m1 {
@@ -400,13 +411,36 @@ h1 {
   width: 400px;
   margin-left: 500px;
 }
-
+.hr1{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 25%;
+  margin:35px auto 55px 41%;
+}
+.hr2{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  margin:  55px auto;
+}
 .color {
   background-color: yellow;
 }
 .Green3D {
-   width: 10%;
+   width: 16%;
+height: 30px;
   margin: 15px auto 15px 50%;
-  background-color: mediumspringgreen;
-  color: lightgreen;
+  background-color: orange;
   text-align: center;
+  border: none;
+  border-radius: 8%;
+}
+.Green3D:hover{
+  background-color: yellow;
+
+}
+.button{
+  color: white;
+}
+.button:hover{
+  color:blue;
+}
