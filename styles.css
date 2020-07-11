@@ -56,6 +56,7 @@ background-color:#32e0c4;
 }
 .last{
   padding-top: 10px;
+  margin-left: 90px;
 }
 .cm{
   width: 10%;
@@ -65,16 +66,18 @@ background-color:#32e0c4;
   background-color: #f6def6;
 }
 .btc{
-  width: 20%;
+  width: 30%;
   text-align: center;
   margin: auto;
 }
 .footer-link{
+    margin: auto 30px auto 34%;
   float: left;
   margin-right: 30px;
 }
 .footer-link1{
-  float: left;}
+  float: left;
+}
 
 .para {
   padding-left: 30px;
@@ -401,3 +404,9 @@ h1 {
 .color {
   background-color: yellow;
 }
+.Green3D {
+   width: 10%;
+  margin: 15px auto 15px 50%;
+  background-color: mediumspringgreen;
+  color: lightgreen;
+  text-align: center;
