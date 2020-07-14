@@ -55,9 +55,10 @@ height: 60px;
 background-color:#32e0c4;
 }
 .last{
-
-  padding-top: 10px;
-  margin-left: 90px;
+  position: absolute;
+  margin: 30px auto;
+  text-align: center;
+  width: 20%;
 }
 .cm{
   width: 10%;
