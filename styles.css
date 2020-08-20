@@ -51,12 +51,12 @@ body {
 }
 
 .bottom-container {
-height: 60px;
+height: 100px;
 background-color:#32e0c4;
 }
 .last{
   position: absolute;
-  margin: 30px auto;
+  margin: 30px  auto auto 110px;
   text-align: center;
   width: 20%;
 }
@@ -70,7 +70,8 @@ background-color:#32e0c4;
 .btc{
   width: 30%;
   text-align: center;
-  margin: auto;
+  padding-top: 30px;
+  margin: 55px auto auto auto;
 }
 .footer-link{
     margin: auto 30px auto 34%;
